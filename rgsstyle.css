@@ -1,0 +1,260 @@
+body{
+ background-color:#AAAAAB;
+}
+.table_main{
+	margin:0 auto;
+	background-color: #EEEEEE;
+	padding-left: 14px;
+}
+.caption{
+    margin-top: 30px;
+    color: #AAAAAB;
+    background-color: #EBF2FC;
+    width: 750px;
+    height: 42px;
+    font-size: 28px;
+    padding-top: 10px;
+}
+.name{
+	width: 461px;
+    padding: 4px;
+}
+.sub_1{
+    margin: 0 auto;
+    width: 750px;
+    background-color: #DADADA;
+
+}
+.roll_no{
+    padding-left: 14px;
+}
+.roll{
+    width: 114px;
+    padding: 4px;
+}
+
+.passing_year{
+    width: 122px;
+    padding: 4px;
+    margin-right: 7px;
+}
+.board{
+    margin-right: -24px;
+    width: 106px;
+    padding: 4px;
+}
+.sub_2{
+    margin-left: 292px;
+    background-color: #C3E1A5;
+    width: 750px;
+    font-size: 20px;
+    padding-left: 12px;
+}
+.school_college{
+    width: 464px;
+    padding: 4px;
+	font-size: 16px;
+}
+.roll_2{
+    width: 302px;
+    padding: 4px;
+}
+.contact{
+	width: 326px;
+    padding: 4px;
+}
+.sub_3{
+    margin-left: 292px;
+    width: 750px;
+    background-color: #4DB849;
+    padding-left: 12px;
+    font-size: 20px;
+}
+.day{
+    padding: 4px;
+    width: 137px;
+}
+.month{
+    padding: 4px;
+    width: 139px;
+    margin-right: 0px;
+    margin-left: 3px;
+}
+.year{
+	padding: 4px;
+    margin-right: 205px;
+    width: 139px;
+}
+.sub_4{
+    margin-left: 292px;
+    width: 750px;
+    padding-left: 12px;
+    background-color: #4DB849;
+    font-size: 18px;
+}
+.gender{
+    padding: 2px;
+    width: 140px;
+	font-size: 17px;
+}
+.nationality{
+    padding: 2px;
+    margin-right: 173px;
+    width: 140px;
+	font-size: 17px;
+}
+.sub_5{
+    margin-left: 292px;
+    width: 750px;
+    background-color: #4DB849;
+    padding-left: 12px;
+    font-size: 20px;
+}
+.checked{
+	padding-right: 109px;
+}
+.sub_6{
+	margin-left: 292px;
+    width: 750px;
+    background-color: #4DB849;
+    padding-left: 12px;
+    font-size: 18px;
+}
+.type{
+    width: 83px;
+    padding: 3px;
+    font-size: 15px;
+}
+.relation{
+    margin-right: 200px;
+    padding: 4px;
+}
+.sub_7{
+    margin-left: 292px;
+    width: 750px;
+    background-color: #8DD242;
+    font-size: 20px;
+    padding-left: 12px;
+}
+.subscriber{
+    padding: 4px;
+    width: 328px;
+    font-size: 14px;
+}
+.national_id{
+    width: 342px;
+    padding: 4px;
+}
+.f_name{
+	width: 351px;
+    padding: 4px;
+}
+.m_name{
+    padding: 4px;
+    width: 343px;
+}
+.sub_8{
+    margin-left: 292px;
+    width: 750px;
+    background-color: #C3E1A5;
+    font-size: 18px;
+	padding-left:12px;
+}
+.day_2{
+    margin-left: 30px;
+    width: 70px;
+    padding: 3px;
+}
+.month_2{
+    padding: 3px;
+    margin-right: 19px;
+    width: 83px;
+}
+.year_2{
+    padding: 3px;
+    margin-right: 194px;
+    width: 82px;
+}
+.sub_9{
+    width: 750px;
+    background-color: #DADADA;
+    margin-left: 292px;
+    padding-left: 12px;
+    font-size: 16px;
+}
+.village{
+	padding: 3px;
+    width: 165px;
+}
+.p_o{
+    padding: 3px;
+    width: 187px;
+}
+.p_s{
+    padding: 3px;
+    width: 198px;
+}
+.district{
+    padding: 3px;
+    width: 164px;
+}
+.division{
+    padding: 3px;
+    width: 155px;
+}
+.postral_code{
+	padding: 3px;
+    width: 137px;
+}
+.sub_10{
+    width: 750px;
+    background-color: #EEEEEE;
+    margin-left: 292px;
+    padding-left: 12px;
+    font-size: 16px;
+	padding-bottom:10px;
+	margin-bottom:30px;
+}
+.village_2{
+	padding: 3px;
+    width: 165px;
+}
+.p_o_2{
+    padding: 3px;
+    width: 187px;
+}
+.p_s_2{
+    padding: 3px;
+    width: 198px;
+}
+.district_2{
+    padding: 3px;
+    width: 164px;
+}
+.division_2{
+    padding: 3px;
+    width: 155px;
+}
+.postral_code_2{
+	padding: 3px;
+    width: 137px;
+}
+.submit{
+    margin-left: 535px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: chocolate;
+}
+.para{
+    padding-left: 711px;
+    font-size: 18px;
+	
+}
+.para a{
+	text-decoration:none;
+}
+.para a:hover{
+	text-decoration:underline;
+	color:#FF9A00;
+
+}
